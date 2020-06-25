@@ -21,7 +21,7 @@ public class AppMain {
     // 设备id
     private static int s_mid = 0;
 
-    // 用户id
+    // User id
     private static int s_uid = 0;
 
     // 商品id
